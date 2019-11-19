@@ -2,12 +2,6 @@
  * This program inputs two numbers from the user, a lower and upper bound, and determines the sequence of increasingly-
  * additive prime numbers between them. For example, given the inputs 4 and 20, the output would be 5, 7, 13. The variables
  * are declared and assigned in C code, while the core logic is written in assembly language.
- *
- * Spencer Peace
- * CSC 362-001
- * Dr. Richard Fox
- * 11/12/19
- * Project 4
  */
 
 #define _CRT_SECURE_NO_WARNINGS
